@@ -1,7 +1,7 @@
 cakephp-lib
 ===========
 
-CakePHP version 2.5.7 (not altered), git submodule dependency
+CakePHP version <b>2.5.7</b> (not altered), git submodule dependency
 
 Just a git project to add CakePHP as a submodule in you CakePHP project.
 
